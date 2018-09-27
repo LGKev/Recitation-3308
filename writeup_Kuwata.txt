@@ -1,0 +1,60 @@
+
+This is a copy of my git log
+
+Partner: Nick Auer
+
+
+
+commit 657529edf409a5a78504c24300bf314e97828870
+Merge: c0e8f0c e115f05
+Author: kevin kuwata <keku4547@colorado.edu>
+Date:   Thu Sep 27 16:29:50 2018 -0600
+
+    merge of the branch master with partner's changes to my read me
+    
+    Merge branch 'master' of github.com:LGKev/Recitation-3308
+
+commit e115f055013af4036c0652fc5227b160d41a8c21
+Author: Nicholas Auer <nick.nickauer@gmail.com>
+Date:   Thu Sep 27 16:37:18 2018 -0600
+
+    partner name added
+
+commit c0e8f0cb5fb7fd482af136ae5b231e12d8ed677a
+Author: kevin kuwata <keku4547@colorado.edu>
+Date:   Thu Sep 27 16:29:12 2018 -0600
+
+    forcing a merge conflict
+
+commit 1b9a2f8599d2b9cdcc3d05f63af42a825d50a6d6
+Merge: 83f61d1 650870a
+Author: kevin kuwata <keku4547@colorado.edu>
+Date:   Thu Sep 27 16:21:27 2018 -0600
+
+    I am merging the new feature branch
+    
+    Merge branch 'new-feature'
+
+commit 83f61d1a5a9fdda2305db268500bfa28073d2658
+Author: kevin kuwata <keku4547@colorado.edu>
+Date:   Thu Sep 27 16:20:33 2018 -0600
+
+    added stuff to sample1.txt 1
+
+commit 650870a731681a0d97013701758a865cdb58d8b5
+Author: kevin kuwata <keku4547@colorado.edu>
+Date:   Thu Sep 27 16:19:46 2018 -0600
+
+    adding sample 3 and 4
+
+commit db1dfabb94263d073d93c4a870a02b1360c4d981
+Author: kevin kuwata <keku4547@colorado.edu>
+Date:   Thu Sep 27 16:17:17 2018 -0600
+
+    adding sample1 and sample2
+
+commit 0cf0818ecb6dde78672cbfa24b4eca0339694554
+Author: kevin kuwata <keku4547@colorado.edu>
+Date:   Thu Sep 27 16:09:17 2018 -0600
+
+    adding readme
